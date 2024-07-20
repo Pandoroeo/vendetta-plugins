@@ -14,5 +14,5 @@ https://`YOUR_GITHUB_USERNAME`.github.io/`REPO_NAME`/`PLUGIN_NAME`
     - Install link: `https://c10udburst-discord.github.io/vendetta-plugins/create-webhooks`
 - Hidden channels: 
     > View the name and description of channels you can't access
-    - Install link: `https://c10udburst-discord.github.io/vendetta-plugins/hidden-channels`
+    - Install link: `https://pandoroeo.github.io/vendetta-plugins/hidden-channels/`
 <!-- plugins -->
